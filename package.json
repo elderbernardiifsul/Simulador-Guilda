@@ -4,9 +4,11 @@
   "private": true,
   "main": "index.js",
   "scripts": {
+    "debug": "node ./bin/www",
     "start": "node ./bin/www",
     "testes": "node ./testes/testeAventureiro.js",
-    "vercel-build": "echo hello"
+    "vercel-build": "echo hello",
+    "apiGuildas": "node ./public/javascripts/apiGuildas.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
