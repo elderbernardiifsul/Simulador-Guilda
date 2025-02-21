@@ -1,4 +1,4 @@
-var baseUrl = "http://localhost:3000";
+var baseUrl = "https://simulador-guilda.vercel.app/";
 
 try {
   //capturar botão
